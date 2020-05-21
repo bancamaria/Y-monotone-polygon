@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1576625503 source:c:\users\cristian\desktop\dana\proiectgc\main.cpp
-	<iostream>
-	<fstream>
-	<cmath>
-	<graphics.h>
-
